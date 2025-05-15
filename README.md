@@ -1,4 +1,6 @@
 ## Hi there 👋
+I hope you enjoy reading about my projects!
+
 
 <!--
 **JoelSGarcia/JoelSGarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
