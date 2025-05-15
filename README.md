@@ -1,5 +1,7 @@
 ## Hi there 👋
 I hope you enjoy reading about my projects!
+Click here to learn a bit more about me >
+
 
 
 <!--
